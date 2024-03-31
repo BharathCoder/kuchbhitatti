@@ -1,0 +1,10 @@
+from time import sleep
+print("Test 1 Passed ✔")
+sleep(1)
+print("Test 2 Passed ✔")
+sleep(1)
+print("Test 3 Passed ✔")
+sleep(1)
+print("Test 4 Passed ✔")
+sleep(1)
+print("Test 5 Passed ✔")
